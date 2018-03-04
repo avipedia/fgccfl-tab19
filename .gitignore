@@ -1,0 +1,6 @@
+# Proprietary font files, e.g., Font Awesome.
+/fonts/*.eot
+/fonts/*.svg
+/fonts/*.ttf
+/fonts/*.woff
+/fonts/*.woff2
