@@ -1,6 +1,6 @@
 <?php
 
-namespace Mercer;
+namespace System;
 
 use PDO;
 
